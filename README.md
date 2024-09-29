@@ -35,4 +35,5 @@ Parameters
     Screen Size: The script retrieves the screen size (x, y) to ensure that random positions are within the bounds.
     Mouse Movement: The random coordinates (x1, y1) for moving the mouse are generated based on the screen size.
     Mouse Click: After moving the mouse, it clicks a fixed position at the center bottom of the screen (x/2, y-30).
-    Sleep Interval: The script sleeps for a random time interval (0 to 60 seconds) before repeating the process. This behavior mimics human actions to avoid detection if used for automation.
+    Sleep Interval: The script sleeps for a random time interval (0 to 60 seconds) before repeating the process. 
+    This behavior mimics human actions to avoid detection if used for automation.
